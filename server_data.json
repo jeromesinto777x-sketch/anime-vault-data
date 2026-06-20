@@ -1,35 +1,16 @@
 {
-  "_info": "Diese Datei auf GitHub hochladen → Raw-URL in app.py eintragen",
-  "animes": {
-    "Naruto": {
-      "name": "Naruto",
-      "description": "Ein junger Ninja kämpft um Anerkennung und will Hokage werden.",
-      "genres": ["Action", "Adventure"],
-      "year": "2002",
-      "cover": null,
-      "premium_only": false
-    },
-    "Attack on Titan": {
-      "name": "Attack on Titan",
-      "description": "Die Menschheit kämpft ums Überleben gegen riesige Titanen.",
-      "genres": ["Action", "Drama"],
-      "year": "2013",
-      "cover": null,
-      "premium_only": false
-    }
-  },
   "announcements": [
     {
       "id": "ann001",
       "title": "🎉 Willkommen bei Anime Vault!",
-      "text": "Hallo! Schön dass du dabei bist. Hier findest du alle meine Animes.",
-      "created": "2025-01-01T00:00:00",
+      "text": "Hallo! Schön dass du dabei bist.",
+      "created": "2026-06-20T00:00:00",
       "pinned": true
     }
   ],
   "premium_keys": {
     "PREM-ABCD1234-EFGH5678": {
-      "created": "2025-01-01T00:00:00",
+      "created": "2026-06-20T00:00:00",
       "used": false,
       "used_by": null,
       "note": "Beispiel-Key"
@@ -37,9 +18,9 @@
   },
   "settings": {
     "app_name": "Anime Vault",
-    "owner": "DeinName",
+    "owner": "gh0st",
     "free_daily_limit": 1,
-    "premium_price": "12,00 €",
-    "paypal": "https://paypal.me/fkyx"
+    "premium_price": "15,00 €",
+    "paypal": "https://paypal.me/DEINNAME/15.00"
   }
 }
